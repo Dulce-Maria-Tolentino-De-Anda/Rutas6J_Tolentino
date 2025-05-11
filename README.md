@@ -1,27 +1,32 @@
-# Act5_Rutas
-![image](https://github.com/user-attachments/assets/0882e7fd-0eff-4cb7-b7ac-b4eed335c138)
+# Act-7-flutter-Mapp
+mapas
+Pantalla de inicio  
 
-Pantalla 2
-![image](https://github.com/user-attachments/assets/d2d7ba8b-3db1-4aac-9829-c69ca6274e9c)
+ ![image](https://github.com/user-attachments/assets/217df001-11ce-454a-afcb-49dd58ab1b96)
+ 
+ bottom_navigation 
+ 
+ ![image](https://github.com/user-attachments/assets/dd3e0306-88eb-49fa-9ac3-9e9c47eb87c1)
+ ![image](https://github.com/user-attachments/assets/f32d9013-64d7-4af9-ac2b-bc7d75f4d3bc)
+ ![image](https://github.com/user-attachments/assets/37bfd995-c5ed-4986-ba03-27a117629a87)
 
-Pantalla 3
-![image](https://github.com/user-attachments/assets/038d871d-32fb-4fe5-89d9-5bce2bdbf4db)
+custom_paint 
 
+![image](https://github.com/user-attachments/assets/c7ede5e9-e9bc-42fd-b2f6-76dbe64b44d6)
 
-A new Flutter project created with FlutLab - https://flutlab.io
+dropdown_button 
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/e7685f02-3152-47e1-8ef5-72815ca84b37)
 
-A few resources to get you started if this is your first Flutter project:
+Indicador de Progreso
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+![image](https://github.com/user-attachments/assets/a60def73-c2cc-4688-aa09-6ea777805c61)
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+cupertino date 
 
-## Getting Started: FlutLab - Flutter Online IDE
+![image](https://github.com/user-attachments/assets/acdcf732-dde0-4dc6-a094-ca922098ed44)
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+fractional_translation
+
+![image](https://github.com/user-attachments/assets/ab8116db-2498-4571-840f-0279a271880c)
+
